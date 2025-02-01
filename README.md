@@ -1,5 +1,3 @@
-(NOTE: I'll edit this later!)
-
 Hi, I’m @bryan-klumpp.  I’m interested in:
   - finding the best balance among simplicity, resilience, and maintainability in my code
   - teaching others to do the same
